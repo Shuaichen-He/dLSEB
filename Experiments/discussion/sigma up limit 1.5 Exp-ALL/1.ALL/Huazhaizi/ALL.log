@@ -1,0 +1,23 @@
+
+============================================================
+  Experiment: ALL  |  Site: Huazhaizi
+============================================================
+  Initial params (from estimate):
+    α   = 0.2406,  σ = 0.8712,  z₀ₘ = 3.1433e-02
+    k   = 0.9857,     C = 1.50e+06
+  Spin-up (20 iterations) ...
+  Spin-up done.  T0[:4] = [287.06433 287.70132 289.2577  289.8882 ]
+  Optimizing (500 epochs) ...
+    Epoch   0/500  loss=109.689102  α=0.2506  σ=0.8812  z₀ₘ=2.14e-02  k=0.8857  C=1.66e+06  T0=286.06
+    Epoch  10/500  loss=84.033348  α=0.2503  σ=0.9627  z₀ₘ=2.65e-02  k=0.3025  C=2.61e+06  T0=285.13
+    Epoch  20/500  loss=72.439598  α=0.2433  σ=1.0490  z₀ₘ=4.19e-02  k=0.5444  C=2.92e+06  T0=284.18
+    Epoch  30/500  loss=66.561188  α=0.2430  σ=1.1136  z₀ₘ=4.78e-02  k=0.3732  C=2.22e+06  T0=283.28
+    Epoch  40/500  loss=64.639915  α=0.2416  σ=1.1577  z₀ₘ=5.01e-02  k=0.3868  C=2.21e+06  T0=282.43
+    Epoch  50/500  loss=63.877239  α=0.2416  σ=1.1577  z₀ₘ=5.01e-02  k=0.3868  C=2.21e+06  T0=282.43
+    Epoch  60/500  loss=63.877239  α=0.2416  σ=1.1577  z₀ₘ=5.01e-02  k=0.3868  C=2.21e+06  T0=282.43
+    Epoch  70/500  loss=63.877239  α=0.2416  σ=1.1577  z₀ₘ=5.01e-02  k=0.3868  C=2.21e+06  T0=282.43
+
+  [Early Stop] plateau (best_loss=63.877239) for 30 epochs at epoch 72
+  [✓] Results saved →  /Users/hsc/Paper📑/Submission/paper-2026-lsm-diff-energy/Experiments/discussion/sigma up limit 1.5 Exp-ALL/1.ALL/Huazhaizi/
+      Final loss: 63.877239
+      Final α=0.2416  σ=1.1577  z₀ₘ=5.01e-02  k=0.3868  C=2.21e+06

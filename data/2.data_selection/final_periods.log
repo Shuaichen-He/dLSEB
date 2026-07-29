@@ -1,0 +1,7 @@
+Final selected periods | last updated 2026-06-10 17:14:30
+===========================================================================
+Site           Year  Start Date    End Date      Strategy
+---------------------------------------------------------------------------
+Ejin           2024  2024-03-26    2024-04-04    max(Hs)/max(LE)
+Huazhaizi      2019  2019-03-29    2019-04-07    max(Hs)/max(LE)
+Shenshawo      2013  2013-10-14    2013-10-23    top-5 fewest-NaN → max(Hs)/max(LE) + impute
