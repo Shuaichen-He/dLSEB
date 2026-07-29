@@ -1,0 +1,59 @@
+{
+    "creators": [
+        {
+            "name": "He, Shuaichen",
+            "orcid": "0000-0002-1637-5144",
+            "affiliation": "Yunnan University",
+            "type": "Author"
+        },
+        {
+            "name": "Zheng, Hui",
+            "affiliation": "Institute of Atmospheric Physics, Chinese Academy of Sciences",
+            "type": "Author"
+        },
+        {
+            "name": "Yang, Qidong",
+            "affiliation": "Yunnan University",
+            "type": "Author"
+        },
+        {
+            "name": "Wang, Zifeng",
+            "affiliation": "Huawei Technologies Co., Ltd.",
+            "type": "Author"
+        }
+    ],
+    "contributors": [],
+    "title": "Differentiable Land Surface Energy Balance Model under Hard Physical Constraints",
+    "description": "dLSEB is a JAX-based differentiable land surface energy balance model that couples radiative transfer, turbulent transport, and soil heat diffusion under a hard energy balance constraint solved via Newton's method, with the soil heat equation discretized by the Crank-Nicolson scheme. The model supports gradient-based parameter optimization and T0 data assimilation. Source code and data processing scripts for three desert sites (Ejin, Huazhaizi, Shenshawo) are included.",
+    "version": "1.0.0",
+    "access_right": "open",
+    "related_identifiers": [
+        {
+            "identifier": "",
+            "relation": "isSupplementTo",
+            "resource_type": "publication"
+        }
+    ],
+    "keywords": [
+        "Land surface model",
+        "Differentiable modeling",
+        "Energy balance",
+        "Parameter optimization",
+        "JAX",
+        "Monin-Obukhov similarity theory",
+        "Soil heat transfer",
+        "Crank-Nicolson scheme",
+        "Desert"
+    ],
+    "license": "mit",
+    "upload_type": "software",
+    "language": "eng",
+    "grants": [
+        {"id": "10.13039/501100012166::2023YFF0805500"},
+        {"id": "10.13039/501100001809::42275178"},
+        {"id": "10.13039/501100001809::42075165"}
+    ],
+    "communities": [
+        {"identifier": "simulation-software"}
+    ]
+}
